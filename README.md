@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello, welcome to my DevRepo 👋
+- 🔭 I'm currently to work teaching in a web development course. You can found some exercises here.
 
 <!--
 **atexeira/atexeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
